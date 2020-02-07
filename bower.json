@@ -1,0 +1,29 @@
+{
+  "name": "desafio-tesseract-jquery",
+  "homepage": "https://github.com/pydawan/desafio-tesseract-jquery",
+  "authors": [
+    "thiago-amm <thiago-amm@outlook.com>"
+  ],
+  "description": "Resposta ao Desafio do Grupo Tesseract implementada em jQuery",
+  "main": "index.html",
+  "keywords": [
+    "javascript",
+    "jquery",
+    "html",
+    "css",
+    "dom",
+    "http"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "4.4.1",
+    "jquery": "3.4.1"
+  }
+}
